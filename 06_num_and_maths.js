@@ -1,4 +1,4 @@
-const num=400;
+// const num=400;
 
 // console.log(num);
 
